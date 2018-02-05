@@ -31,6 +31,23 @@
     .row.content {height:auto;}
   }
 
-  header {
+  #header {
     padding-left: 50px;
   }
+
+#under-header {
+  position: relative;
+  height: 300px;
+  background-color: white;
+}
+.navbar navbar-inverse{
+  background-color: #ffbf00;
+}
+
+h1{
+  color: #ffbf00;
+}
+
+h3 {
+  text-decoration: underline;
+}
